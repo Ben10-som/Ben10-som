@@ -49,29 +49,6 @@ Passionné par l'**analyse et la valorisation des données** ainsi que l'**écon
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ben10-som&theme=radical" alt="Ben10-som" />
 </div>
 
-## 🏆 Projets Phares
-
-### 🚀 [SpaceX Dashboard](https://github.com/Ben10-som/spacex-dash)
-Visualisation interactive des lancements de SpaceX avec tableaux de bord dynamiques
-- **Tech Stack :** Python, Plotly Dash, Pandas
-- **Features :** Analyses temps réel, visualisations interactives
-
-### 🏥 [OuagaHosto - Plateforme Médicale](https://github.com/Ben10-som/ouagahosto)
-Plateforme de gestion et prise de rendez-vous médicaux en ligne
-- **Récompense :** 🥉 3ème prix au hackathon
-- **Tech Stack :** HTML/CSS, JavaScript, Base de données
-
-### 🏦 [Système Bancaire Python](https://github.com/Ben10-som/Projet-gestion-banque---CPGE)
-Simulation complète de gestion bancaire avec transferts et comptes
-- **Features :** Gestion multi-comptes, historique des transactions
-
-### 📈 [Suivi de Collecte de Données](https://github.com/LaFleche06/Suivie-de-la-collecte-des-donnees-avec-R)
-Application Shiny connectée à l'API KoboToolbox pour l'analyse et vérification des incohérences
-- **Tech Stack :** R, Shiny, API KoboToolbox
-
-### 🚗 [Analyse des Données Automobiles USA](https://github.com/Ben10-som/analyse-donnees-voiture)
-Analyse complète du marché automobile américain
-- **Tech Stack :** Python, Pandas, Matplotlib, Seaborn
 
 ## 🎓 Certifications IBM
 
