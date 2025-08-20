@@ -11,7 +11,7 @@ Passionné par l'**analyse et la valorisation des données** ainsi que l'**écon
 🌍 **Basé à Dakar, Sénégal**  
 📧 **Contact :** somaben791@gmail.com  
 💼 **LinkedIn :** [ben-soma](https://linkedin.com/in/ben-soma)  
-🌐 **Portfolio :** [Portfolio en ligne]([https://votre-portfolio.com](https://ben10-som.github.io/portofolio/))
+🌐 **Portfolio :** [Portfolio en ligne](https://ben10-som.github.io/portofolio/)
 
 ## 🚀 Compétences Techniques
 
