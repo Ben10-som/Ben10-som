@@ -6,7 +6,7 @@
 
 ## 🎯 À propos de moi
 
-Passionné par l'**analyse et la valorisation des données** ainsi que l'**économie**, je suis actuellement étudiant en cycle d'ingénieur en statistique et économie à l'**ENSAE Dakar**. Je développe mes compétences en data science avec un focus sur **Python**, **R** et **SQL**.
+Passionné par l'**analyse et la valorisation des données** ainsi que l'**économie**, je suis actuellement étudiant en cycle d'ingénieur en statistique et économie à l'**ENSAE Dakar**. Je développe mes compétences en data science.
 
 🌍 **Basé à Dakar, Sénégal**  
 📧 **Contact :** somaben791@gmail.com  
