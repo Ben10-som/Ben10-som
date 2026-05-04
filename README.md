@@ -1,7 +1,7 @@
 # 👋 Salut, je suis Ben Idriss SOMA !
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Étudiant+Ingénieur+Statisticien;Data+Scientist+en+devenir;Passionné+d'Économie+%26+Data;Développeur+Python+%26+R" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Étudiant+Ingénieur+Statisticien;Data+Scientist+en+devenir alt="Typing SVG" />
 </div>
 
 ## 🎯 À propos de moi
